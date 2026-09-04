@@ -25,23 +25,6 @@
 <tr>
 <td width="55%" valign="top">
 
-```bash
-tanish@kathmandu:~$ cat about.txt
-
-  CS student 🇳🇵 building in public, every day.
-  Going deep on Systems Programming & AI.
-
-tanish@kathmandu:~$ status --now
-
-  ▶ Sharpening DSA — one problem at a time
-  ▶ Learning Python backend patterns
-  ▶ Open to beginner-friendly Python collabs
-
-tanish@kathmandu:~$ ask --me-about
-
-  Python · DSA · CLI Tools · HTML/CSS · Problem Solving
-```
-
 </td>
 <td width="45%" align="center" valign="middle">
 
@@ -65,7 +48,7 @@ tanish@kathmandu:~$ ask --me-about
 
 ---
 
-## 🛠️ `$ cat stack.txt`
+## `Stack`
 
 <div align="center">
 
@@ -75,7 +58,7 @@ tanish@kathmandu:~$ ask --me-about
 
 ---
 
-## 📊 `$ git log --stats`
+## `$ git log --stats`
 
 <div align="center">
 
@@ -98,7 +81,7 @@ tanish@kathmandu:~$ ask --me-about
 
 ---
 
-## 💡 `$ cat beliefs.txt`
+## `$ cat beliefs.txt`
 
 > 🔍 **Reading the source** is faster than reading the docs, most of the time.
 
