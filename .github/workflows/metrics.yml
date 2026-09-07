@@ -12,5 +12,5 @@ jobs:
           user: tanishbhatta
           filename: github-metrics.svg
           config_timezone: Asia/Kathmandu
-          plugin_languages: yes
+          plugin_languages: no
           plugin_isocalendar: yes
