@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.metrics-token }}
           filename: github-metrics.svg
           config_timezone: Asia/Kathmandu
           plugin_languages: yes
