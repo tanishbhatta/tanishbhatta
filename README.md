@@ -2,29 +2,28 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6EE7F7&height=180&section=header&text=Tanish%20Bhatta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20in%20public%20from%20Kathmandu%20🇳🇵&descSize=16&descAlignY=56)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Web+developer+from+Kathmandu+🇳🇵;Reverse-engineering+%3E+just+using+it;Learning+C%2B%2B+from+books%2C+not+tutorials;DSA+on+LeetCode+%2B+embedded+%2F+low-level;Founder+%40+Naulo+Pusta+Foundation)](https://github.com/tanishbhatta)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=tanishbhatta&label=Profile+Views&color=6EE7F7&style=flat-square)
 
 </div>
 
-## Intro
+## About
 
-Web-dev student in Kathmandu who'd rather take a thing apart than just use it. Right now that means going deep on **C++** — DSA on one side, embedded / low-level on the other.
+🇳🇵 Web-dev student in **Kathmandu, Nepal**, heading toward **backend engineering** while finishing the web-dev basics.
 
-## `Who am I?`
+- Learning **C++** from **books and documentation** (not video tutorials), turning what I read into small programs.
+- Running two C++ tracks in parallel: **DSA / competitive programming** on LeetCode, and **embedded / low-level** work — **robotics** is next.
+- Building **[FilmBuddy](https://github.com/tanishbhatta/FilmBuddy)** and a handful of Python CLI tools, all in public.
+- Founder of **Naulo Pusta Foundation** — a youth-led NGO in Nepal working on **digital literacy and education for underprivileged students**.
 
-- 🇳🇵 &nbsp;Web development student in **Kathmandu, Nepal**, pulled toward **backend engineering**.
-- &nbsp;Learning **C++** alongside web dev — from **books and documentation**, not video tutorials.
-- &nbsp;Two C++ tracks running in parallel: **DSA / competitive programming** on LeetCode, and **embedded / low-level** work. **Robotics** is the next step.
-- &nbsp;Founder of **Naulo Pusta Foundation** — a youth-led NGO in Nepal working on **digital literacy and education for underprivileged students**.
+## Featured projects
 
-## Currently
-
-- Shoring up **backend fundamentals** while finishing the web-dev basics.
-- Reading through **C++ books/docs** and turning what I learn into small programs.
-- Grinding **DSA on LeetCode** and poking at **low-level / embedded** C++.
-- Building **[FilmBuddy](https://github.com/tanishbhatta/FilmBuddy)** and a handful of Python CLI tools — in public.
+| Project | What it does | Stack |
+|---|---|---|
+| **[FilmBuddy](https://github.com/tanishbhatta/FilmBuddy)** · [live ↗](https://filmbuddy-mu.vercel.app) | Cinematic movie-discovery app — search + curated Trending/Top-Rated rows via the TMDB API | `HTML` `CSS` `JS` `TMDB` |
+| **[LeetCode-Solutions](https://github.com/tanishbhatta/LeetCode-Solutions)** | My DSA solutions, added as I work through the patterns | `Python` `DSA` |
+| **[unit-conversion-library](https://github.com/tanishbhatta/unit-conversion-library)** | Small Python library for distance, weight & temperature conversions | `Python` `Library` |
+| **[file-organizer-cli](https://github.com/tanishbhatta/file-organizer-cli)** | Auto-sorts a folder by file extension — zero dependencies | `Python` `CLI` |
+| **[Simple-Calculator](https://github.com/tanishbhatta/Simple-Calculator)** | Responsive vanilla-JS calculator with a dark UI | `HTML` `CSS` `JS` |
 
 ## Stack & tools
 
@@ -43,16 +42,6 @@ Web-dev student in Kathmandu who'd rather take a thing apart than just use it. R
 ![Embedded](https://img.shields.io/badge/Embedded_/_Low--level_C++-6EE7F7?style=flat-square&logo=cplusplus&logoColor=black)
 ![Robotics](https://img.shields.io/badge/Robotics_(next)-6EE7F7?style=flat-square&logo=ros&logoColor=black)
 
-## Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[FilmBuddy](https://github.com/tanishbhatta/FilmBuddy)** · [live ↗](https://filmbuddy-mu.vercel.app) | Cinematic movie-discovery app — search + curated Trending/Top-Rated rows via the TMDB API | `HTML` `CSS` `JS` `TMDB` |
-| **[LeetCode-Solutions](https://github.com/tanishbhatta/LeetCode-Solutions)** | My DSA solutions, added as I work through the patterns | `Python` `DSA` |
-| **[unit-conversion-library](https://github.com/tanishbhatta/unit-conversion-library)** | Small Python library for distance, weight & temperature conversions | `Python` `Library` |
-| **[file-organizer-cli](https://github.com/tanishbhatta/file-organizer-cli)** | Auto-sorts a folder by file extension — zero dependencies | `Python` `CLI` |
-| **[Simple-Calculator](https://github.com/tanishbhatta/Simple-Calculator)** | Responsive vanilla-JS calculator with a dark UI | `HTML` `CSS` `JS` |
-
 ## GitHub stats
 
 <div align="center">
@@ -60,14 +49,14 @@ Web-dev student in Kathmandu who'd rather take a thing apart than just use it. R
 <!-- Streak card -->
 <img height="180" alt="streak" src="https://streak-stats.demolab.com?user=tanishbhatta&hide_border=true&background=0D1117&ring=6EE7F7&fire=8B5CF6&currStreakLabel=6EE7F7&sideLabels=94A3B8&dates=64748B&currStreakNum=E5E7EB&sideNums=E5E7EB&stroke=6EE7F7&border_radius=10" />
 
-<!-- Overview + top-langs, using the rickstaa mirror (less rate-limited than the main instance) -->
+<!-- Overview + top-langs (top-langs is the single canonical language view for this profile). -->
 <img height="165" alt="stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanishbhatta&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6EE7F7&icon_color=8B5CF6&text_color=94A3B8&border_radius=10" />
 <img height="165" alt="top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanishbhatta&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=6EE7F7&text_color=94A3B8&border_radius=10" />
 
 </div>
 
-<!-- Full metrics dashboard (commit time-of-day, isometric calendar, language bar). -->
-<!-- Renders ONLY after you add .github/workflows/metrics.yml and it runs once.      -->
+<!-- Metrics dashboard: commit time-of-day + isometric calendar only. -->
+<!-- Configure .github/workflows/metrics.yml WITHOUT the languages plugin — the top-langs card above is the single language view. Renders after the workflow runs once. -->
 <div align="center">
 
 ![metrics](https://raw.githubusercontent.com/tanishbhatta/tanishbhatta/main/github-metrics.svg)
@@ -95,7 +84,5 @@ Web-dev student in Kathmandu who'd rather take a thing apart than just use it. R
 I'll read a library's **source** before its docs, and I'll take *slow and understood* over *fast and copied* every single time. A CLI that does one thing well beats a framework that does ten things badly.
 
 ---
-
-<sub>Hand-written in Markdown. ASCII art is brightness-mapped from my avatar; every stat card and badge was checked to confirm it actually renders. The snake and metrics run on scheduled GitHub Actions.</sub>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:0D1117&height=120&section=footer)
