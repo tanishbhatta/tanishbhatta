@@ -61,8 +61,8 @@ Web-dev student in Kathmandu who'd rather take a thing apart than just use it. R
 <img height="180" alt="streak" src="https://streak-stats.demolab.com?user=tanishbhatta&hide_border=true&background=0D1117&ring=6EE7F7&fire=8B5CF6&currStreakLabel=6EE7F7&sideLabels=94A3B8&dates=64748B&currStreakNum=E5E7EB&sideNums=E5E7EB&stroke=6EE7F7&border_radius=10" />
 
 <!-- Overview + top-langs, using the rickstaa mirror (less rate-limited than the main instance) -->
-<img height="165" alt="stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tanishbhatta&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6EE7F7&icon_color=8B5CF6&text_color=94A3B8&border_radius=10" />
-<img height="165" alt="top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tanishbhatta&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=6EE7F7&text_color=94A3B8&border_radius=10" />
+<img height="165" alt="stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanishbhatta&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6EE7F7&icon_color=8B5CF6&text_color=94A3B8&border_radius=10" />
+<img height="165" alt="top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanishbhatta&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=6EE7F7&text_color=94A3B8&border_radius=10" />
 
 </div>
 
