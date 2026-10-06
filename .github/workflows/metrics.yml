@@ -4,7 +4,7 @@ on:
   workflow_dispatch: {}
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -14,3 +14,4 @@ jobs:
           config_timezone: Asia/Kathmandu
           plugin_languages: no
           plugin_isocalendar: yes
+          plugin_habits: yes
